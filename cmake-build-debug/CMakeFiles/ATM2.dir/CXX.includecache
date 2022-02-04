@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/c or c++/CLionProjects/ATM2/Account.h
+iostream
+-
+string
+-
+
+D:/c or c++/CLionProjects/ATM2/main.cpp
+Account.h
+D:/c or c++/CLionProjects/ATM2/Account.h
+iostream
+-
+string
+-
+vector
+-
+

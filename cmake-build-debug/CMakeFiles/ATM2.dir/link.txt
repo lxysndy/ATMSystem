@@ -1,0 +1,3 @@
+"D:\clion\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\ATM2.dir/objects.a
+D:\vscode\mingw64\bin\ar.exe cr CMakeFiles\ATM2.dir/objects.a @CMakeFiles\ATM2.dir\objects1.rsp
+D:\vscode\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\ATM2.dir/objects.a -Wl,--no-whole-archive -o ATM2.exe -Wl,--out-implib,libATM2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ATM2.dir\linklibs.rsp

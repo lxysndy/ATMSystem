@@ -1,0 +1,3 @@
+D:/c or c++/CLionProjects/ATM2/cmake-build-debug/CMakeFiles/ATM2.dir
+D:/c or c++/CLionProjects/ATM2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/c or c++/CLionProjects/ATM2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
